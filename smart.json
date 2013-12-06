@@ -1,9 +1,9 @@
 {
     "name": "highcharts",
-    "description": "A smart package that contains the charting library Highcharts for the client.",
+    "description": "Highcharts - intuitive, interactive HTML5/JavaScript charts",
     "author": "Mike Schäkermann",
     "homepage": "https://github.com/mikeschaekermann/meteor-highcharts",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "git": "https://github.com/mikeschaekermann/meteor-highcharts.git",
     "packages": {}
 }
