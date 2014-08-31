@@ -5,4 +5,6 @@ Package.describe({
 Package.on_use(function (api) {
 	api.use('jquery', 'client');
     api.add_files('lib/highcharts.js', 'client');
+    api.add_files('lib/exporting.js', 'client');
+    api.add_files('lib/highcharts-more.js', 'client');
 });
